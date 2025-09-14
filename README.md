@@ -21,4 +21,5 @@
 Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
 
 ### Решение
+Результат состояния node-exporter
 ![alt text](img/node-exporter.JPG)
