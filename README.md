@@ -36,4 +36,4 @@
 
 ### Решение
 Результат 2 node prometheus
-![alt text](img/node-prom.JPG)
+![alt text](img/prom-node.JPG)
