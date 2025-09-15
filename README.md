@@ -32,3 +32,8 @@
 Отредактируйте prometheus.yaml, добавив в массив таргетов установленный в задании 2 node exporter
 Перезапустите prometheus
 Проверьте что он запустился
+
+
+### Решение
+Результат 2 node prometheus
+![alt text](img/node-prom.JPG)
